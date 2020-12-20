@@ -20,4 +20,5 @@
 - [ ] Lesson 2: Big picture: Compute Services
 - [ ] Lesson 2
 - [ ] Add Lesson 2 resources, articles, and notes
-
+# Personal Articles
+- [Introduction to Cloud Computing: A Novice's Tale](https://medium.com/ml4e-blogs/introduction-to-cloud-computing-a-novices-tale-180ab44c9f12)
