@@ -4,8 +4,13 @@
 ### Lesson1: Introduction to Azure Development
 ### Lesson2: Azure Compute Services
 - L2. Big Picture: Compute Services
-    - [Choose an Azure compute service for your application - Microsoft Documentation](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?WT.mc_id=udacity_learn-wwl&source=docs)
-    - [Core Cloud Services - Azure compute options](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/?WT.mc_id=udacity_learn-wwl)
+    - [ ] [Choose an Azure compute service for your application - Microsoft Documentation](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?WT.mc_id=udacity_learn-wwl&source=docs)
+    - [ ] [Core Cloud Services - Azure compute options](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/?WT.mc_id=udacity_learn-wwl)
+- L3. Subscriptions and Resource Groups
+    - [ ] [Manage resources in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/?WT.mc_id=udacity_learn-wwl)
+    - [ ] [Move Azure resources to another resource group](https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/?WT.mc_id=udacity_learn-wwl)
+    - [ ] [Control and organize Azure resources with Azure Resource Manager](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/?WT.mc_id=udacity_learn-wwl)
+    - [ ] [Build Azure Resource Manager templates](https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/?WT.mc_id=udacity_learn-wwl)
 ### Lesson3: Azure Storage
 ### Lesson4: Security and Monitoring Basics
 ### Lesson5: Deploy an article CMS to Azure
