@@ -13,6 +13,7 @@
 ## 60daysofUdacity
 
 # Resources
+- LinkedIn Site Reliability Engineer Guide: https://linkedin.github.io/school-of-sre/
 # TODO
 
 - [x] Lesson 1
