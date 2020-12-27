@@ -19,12 +19,26 @@
 
 # Resources
 - LinkedIn Site Reliability Engineer Guide: https://linkedin.github.io/school-of-sre/
+
+# Quizzes
+
+| | Quiz Name | Link |
+|---|-----------|------|
+|✔| AZ-900(Basics)|https://quizizz.com/join?gc=36418260|
+|✔| Python|https://forms.gle/t1cQ6i9jZwaWW4L46|
+|✔| Azure Introduction|https://quizizz.com/join?gc=22115028|
+
 # TODO
 
 - [x] Lesson 1
 - [ ] Add Lesson 1 resources, articles, and notes
-- [ ] Lesson 2: Big picture: Compute Services
 - [ ] Lesson 2
+    - [x] Big picture: Compute Services
+    - [x] Subscriptions and Resrouce Groups
+    - [x] Virtual Machines Vs App Services
+    - [ ] Creating an Virtual Machine 
+    - [ ] Creating an App Service
 - [ ] Add Lesson 2 resources, articles, and notes
+
 # Personal Articles
 - [Introduction to Cloud Computing: A Novice's Tale](https://medium.com/ml4e-blogs/introduction-to-cloud-computing-a-novices-tale-180ab44c9f12)
