@@ -11,6 +11,12 @@
     - [ ] [Move Azure resources to another resource group](https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/?WT.mc_id=udacity_learn-wwl)
     - [ ] [Control and organize Azure resources with Azure Resource Manager](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/?WT.mc_id=udacity_learn-wwl)
     - [ ] [Build Azure Resource Manager templates](https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/?WT.mc_id=udacity_learn-wwl)
+    
+ - [ ] L9. Creating a Virtual Machine
+    - [ ] [Introduction to Azure virtual machines](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/?WT.mc_id=udacity_learn-wwl)
+    - [ ] [Create a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/?WT.mc_id=udacity_learn-wwl)
+    - [ ] [Deploy a website with Azure virtual machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/?WT.mc_id=udacity_learn-wwl)
+    
 ### Lesson3: Azure Storage
 ### Lesson4: Security and Monitoring Basics
 ### Lesson5: Deploy an article CMS to Azure
