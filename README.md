@@ -17,7 +17,12 @@
     - [ ] [Introduction to Azure virtual machines](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/?WT.mc_id=udacity_learn-wwl)
     - [ ] [Create a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/?WT.mc_id=udacity_learn-wwl)
     - [ ] [Deploy a website with Azure virtual machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/?WT.mc_id=udacity_learn-wwl)
+- L12. Creating an App Service
+    - [ ] [Host a web application with Azure App Service](https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/?WT.mc_id=udacity_learn-wwl)
+    - [ ] [Manage an App Service plan in Azure](https://docs.microsoft.com/en-us/azure/app-service/app-service-plan-manage?WT.mc_id=udacity_learn-wwl)
+    - [ ] [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/?WT.mc_id=udacity_learn-wwl)
     
+
 ### Lesson3: Azure Storage
 ### Lesson4: Security and Monitoring Basics
 ### Lesson5: Deploy an article CMS to Azure
